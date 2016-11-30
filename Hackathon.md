@@ -6,10 +6,10 @@
 
 [Wednesday, December 7, 2016](https://www.meetup.com/full-stack-developer-il/events/230141038/)
 ```
-Campus TLV
-98 Yigal Alon st.
-Floor 34rd (Electra Tower)
-Tel-Aviv (map)
+Campus TLV of Google
+98 Yigal Alon st.  (Electra Tower)
+Floor 34rd
+Tel-Aviv
 ```
 ### Dependencies:
 - [DaTableSQL](https://github.com/marmor/datable.sql)
