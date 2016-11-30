@@ -18,6 +18,7 @@ Tel-Aviv
 During this hackathon, we plan to release the first (and preliminary) release of [DaTableJS](https://github.com/marmor/datable.js).
 
 ### More Detailed Plan:
+- Consult with the hackathon's croud, whether to base the alpha on an existing framework or library (only temporarily!); such step may save time on the rest of the day, but the price is a dependency which must be removed in the following releases ([Meteor](https://www.meteor.com) could be a great option, but its dependency on MongoDB (before Apollo) complicates it)
 - Create basic menu component, based on jQuery and other libraries, plus basic routing
 - Create grid component, based on jQuery and an existing grid
 - Create minimal REST on the backend, based on NodeJS
