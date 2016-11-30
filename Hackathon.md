@@ -14,7 +14,10 @@ Tel-Aviv
 ### Dependencies:
 - [DaTableSQL](https://github.com/marmor/datable.sql)
 
-### Goals:
+### Goal:
+During this hackathon, we plan to release the first (and preliminary) release of [DaTableJS](https://github.com/marmor/datable.js).
+
+### More Detailed Plan:
 - Create basic menu component, based on jQuery and other libraries, plus basic routing
 - Create grid component, based on jQuery and an existing grid
 - Create minimal REST on the backend, based on NodeJS
