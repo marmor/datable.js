@@ -21,5 +21,9 @@ During this hackathon, we plan to release the first (and preliminary) release of
 - Consult with the hackathon's croud, whether to base the alpha on an existing framework or library (only temporarily!); such step may save time on the rest of the day, but the price is a dependency which must be removed in the following releases ([Meteor](https://www.meteor.com) could be a great option, but its dependency on MongoDB (before Apollo) complicates it)
 - Create basic menu component, based on jQuery and other libraries, plus basic routing
 - Create grid component, based on jQuery and an existing grid
-- Create minimal REST on the backend, based on NodeJS
+- Create minimal REST on the backend, based on NodeJS, currently without any auth`*
 - Enable CRUD operations on the data by connecting the grid to the backend
+- Build a minimal app, based on the above
+
+# IMPORTANT!
+## The result of this hackathon is going to be *VERY* preliminary, not representing our plans for this project in any way!
